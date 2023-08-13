@@ -119,8 +119,8 @@ nav a {
 
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
-	color: #fff;
-	background-color: #BEB45A;
+	color: #121212;
+	background-color: #B6AA49;
 	border-radius: 0;
 }
 
